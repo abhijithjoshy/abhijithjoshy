@@ -1,6 +1,12 @@
-## 💻 Skills
+<h1 align="center">👋 Hi there! I'm Abhijith Joshy</h1>
 
-### Frontend
+<p align="center">
+  Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.
+</p>
+
+<h2 align="center">💻 Skills</h2>
+
+<h3 align="center">Frontend</h3>
 <div align="center">
   <a href="https://reactjs.org/" target="_blank" title="React">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -19,7 +25,7 @@
   </a>
 </div>
 
-### Backend
+<h3 align="center">Backend</h3>
 <div align="center">
   <a href="https://laravel.com/" target="_blank" title="Laravel">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
@@ -33,14 +39,14 @@
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   </a>
+  <a href="https://cplusplus.com/" target="_blank" title="C++">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </a>
 </div>
 
-### Other Skills
+<h2 align="center">Other Skills</h2>
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-  <a href="https://en.cppreference.com/" target="_blank" title="C++">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   </a>
 </div>
