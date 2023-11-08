@@ -1,7 +1,3 @@
-# 👋 Hi there! I'm Abhijith Joshy
-
-Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.
-
 ## 💻 Skills
 
 ### Frontend
@@ -41,13 +37,10 @@ Diving into the digital cosmos with a passion for crafting exceptional software 
 
 ### Other Skills
 <div align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   </a>
-  <a href="https://www.cplusplus.com/" target="_blank" title="C++">
+  <a href="https://en.cppreference.com/" target="_blank" title="C++">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   </a>
 </div>
