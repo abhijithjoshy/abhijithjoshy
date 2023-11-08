@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there! I'm Abhijith Joshy</h1>
-  <p>Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.</p>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; background-color: #222; color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.</p>
 </div>
 
 <h2 align="center">💻 Skills</h2>
