@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hi there! I'm Abhijith Joshy</h1>
-
-<p align="center">
-  Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.
-</p>
+<div align="center">
+  <h1>👋 Hi there! I'm Abhijith Joshy</h1>
+  <p>Diving into the digital cosmos with a passion for crafting exceptional software solutions, I'm Abhijith Joshy. As a coding virtuoso, I'm fluent in multiple tech dialects and always eager to embark on new adventures in the world of programming.</p>
+</div>
 
 <h2 align="center">💻 Skills</h2>
 
@@ -42,6 +41,9 @@
   <a href="https://cplusplus.com/" target="_blank" title="C++">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   </a>
+  <a href="https://www.cplusplus.com/" target="_blank" title="C">
+    <img style="margin: 10px" src="C_ICON_URL_HERE" alt="C" height="50" />
+  </a>
 </div>
 
 <h2 align="center">Other Skills</h2>
@@ -50,3 +52,5 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   </a>
 </div>
+
+
