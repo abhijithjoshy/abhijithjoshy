@@ -38,10 +38,10 @@
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   </a>
-  <a href="https://cplusplus.com/" target="_blank" title="C++">
+  <a href="https://www.cplusplus.com/" target="_blank" title="C++">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   </a>
-  <a href="https://www.cplusplus.com/" target="_blank" title="C">
+  <a href="C_ICON_URL_HERE" target="_blank" title="C">
     <img style="margin: 10px" src="C_ICON_URL_HERE" alt="C" height="50" />
   </a>
 </div>
@@ -49,8 +49,6 @@
 <h2 align="center">Other Skills</h2>
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt "Git" height="50" />
   </a>
 </div>
-
-
